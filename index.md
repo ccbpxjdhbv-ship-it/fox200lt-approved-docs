@@ -11,14 +11,14 @@ If information is not explicitly stated in these documents, it should be conside
 
 ### Instrument & Operation
 - [FOX200LT Instrument Manual (Rev 5b)](docs/fox200lt-instrument-manual-rev5b.md)
-- [FOX200LT Quick Start – Instrument](docs/fox200lt-quickstart-instrument.html)
+- [FOX200LT Quick Start – Instrument](docs/fox200lt-quickstart-instrument.md)
 
 ### Software
-- [FOX200LT Quick Start – Computer](docs/fox200lt-quickstart-software.html)
-- [FOX200LT K-Box / WinTherm32 Software Manual](docs/fox200lt-kbox-software-manual.html)
+- [FOX200LT Quick Start – Computer](docs/fox200lt-quickstart-software.md)
+- [FOX200LT K-Box / WinTherm32 Software Manual](docs/fox200lt-kbox-software-manual.md)
 
 ### Safety & Procedures
-- [FOX200LT Liquid Nitrogen Testing – Operating Procedure & Safety Controls (Draft)](docs/fox200lt-ln2-operating-procedure-v1.html)
+- [FOX200LT Liquid Nitrogen Testing – Operating Procedure & Safety Controls (Draft)](docs/fox200lt-ln2-operating-procedure-v1.md)
 
 ---
 
