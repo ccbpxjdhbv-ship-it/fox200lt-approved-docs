@@ -1,26 +1,43 @@
-# FOX200LT – Approved Public Reference (Index)
+# FOX200LT – Approved Reference Documentation
 
-This page is a **public-safe** index for FOX200LT-related reference materials used for an internal knowledge assistant.
+This site hosts **public-safe, text-mirrored versions** of approved FOX200LT documentation.
+The text versions below are the **preferred reference** for search, indexing, and AI-assisted lookup.
 
-## Documents
-- [FOX200LT Quick Start – Instrument](docs/fox200lt-quickstart-instrument.pdf)
-- [FOX200LT Quick Start – Computer](docs/fox200lt-quickstart-software.pdf)
-- [FOX200LT Instrument Manual (Rev 5b)](docs/fox200lt-instrument-manual-rev5b.pdf)
-- [FOX200LT K-Box Software Manual](docs/fox200lt-kbox-software-manual.pdf)
-- [FOX200LT Ln2 Operating Procedure V1](docs/fox200lt-ln2-operating-procedure-v1.pdf)
-## Notes
-- This site intentionally excludes any proprietary/internal-only content.
-- Vendor manuals and copyrighted documents are not posted here.
+If information is not explicitly stated in these documents, it should be considered **not available**.
+
+---
+
 ## Primary Reference (Text Mirrors – Recommended)
 
-These pages contain full text mirrors of the approved FOX200LT documents.
-They are the **preferred source for search, indexing, and AI-assisted lookup**.
+### Instrument & Operation
+- [FOX200LT Instrument Manual (Rev 5b)](docs/fox200lt-instrument-manual-rev5b.md)
+- [FOX200LT Quick Start – Instrument](docs/quick-start-instrument.md)
 
-- [FOX200LT Instrument Manual (Rev 5b) – Text](docs/fox200lt-instrument-manual-rev5b.md)
+### Software
+- [FOX200LT Quick Start – Computer (WinTherm32)](docs/quick-start-computer.md)
+- [FOX200LT K-Box / WinTherm32 Software Manual](docs/kbox-software-manual.md)
 
-## Original PDFs (Archive / Reference Only)
+### Safety & Procedures
+- [FOX200LT Liquid Nitrogen Testing – Operating Procedure & Safety Controls (Draft)](docs/fox200lt-ln2-operating-procedure.md)
 
-Original vendor-issued PDFs retained for traceability.
+---
 
-- [FOX200LT Instrument Manual (Rev 5b) – PDF](docs/fox200lt-instrument-manual-rev5b.pdf)
-- [FOX200LT Quick Start – Instrument (PDF)](docs/...)
+## Original PDFs (Archive Only)
+
+Original vendor-issued PDFs are retained for traceability and reference.
+Text mirrors above are the preferred source for indexing and lookup.
+
+- FOX200LT Instrument Manual (Rev 5b) – PDF
+- FOX200LT Quick Start – Instrument – PDF
+- FOX200LT Quick Start – Computer – PDF
+- FOX200LT K-Box Software Manual – PDF
+- FOX200LT Liquid Nitrogen Testing – Operating Procedure & Safety Controls (Draft) – PDF
+
+---
+
+## Usage Notes
+
+- This site contains **no proprietary analysis or internal commentary**.
+- Content is limited to vendor-issued documentation and approved internal procedures.
+- If a question cannot be answered from the text mirrors above, the correct response is:
+  **“Not found in approved documents.”**
