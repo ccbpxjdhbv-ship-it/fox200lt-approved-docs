@@ -11,3 +11,16 @@ This page is a **public-safe** index for FOX200LT-related reference materials us
 ## Notes
 - This site intentionally excludes any proprietary/internal-only content.
 - Vendor manuals and copyrighted documents are not posted here.
+## Primary Reference (Text Mirrors – Recommended)
+
+These pages contain full text mirrors of the approved FOX200LT documents.
+They are the **preferred source for search, indexing, and AI-assisted lookup**.
+
+- [FOX200LT Instrument Manual (Rev 5b) – Text](docs/fox200lt-instrument-manual-rev5b.md)
+
+## Original PDFs (Archive / Reference Only)
+
+Original vendor-issued PDFs retained for traceability.
+
+- [FOX200LT Instrument Manual (Rev 5b) – PDF](docs/fox200lt-instrument-manual-rev5b.pdf)
+- [FOX200LT Quick Start – Instrument (PDF)](docs/...)
